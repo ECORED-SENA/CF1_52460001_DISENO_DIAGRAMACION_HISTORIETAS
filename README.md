@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Historia de las historietas**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF1_52460001_DISENO_DIAGRAMACION_HISTORIETAS/#/](https://ecored-sena.github.io/CF1_52460001_DISENO_DIAGRAMACION_HISTORIETAS/#/)
 
 #
 
