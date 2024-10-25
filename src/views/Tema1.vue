@@ -27,7 +27,7 @@
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/4.png",style="max-width: 397px;")
         
-        p.mb-5(data-aos="fade-top") En la actualidad, las técnicas empleadas en el diseño de historietas van desde las más tradicionales, como el uso de plumilla y tinta, hasta las más avanzadas tecnológicamente, como la ilustración digital mediante tabletas digitalizadoras #[b (#[em pen tablets])] y software especializado de diseño e ilustración.
+        p.mb-5(data-aos="fade-top") En la actualidad, las técnicas empleadas en el diseño de historietas van desde las más tradicionales, como el uso de plumilla y tinta, hasta las más avanzadas tecnológicamente, como la ilustración digital mediante tabletas digitalizadoras #[b (#[em pen tablets])] y #[em software] especializado de diseño e ilustración.
 
         .row.justify-content-center
           .col-lg-4.mb-4(data-aos="fade-right")

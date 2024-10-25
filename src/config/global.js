@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Historia de las historietas',
     descripcionCurso:
-      'Las historietas son narraciones ilustradas combinando texto y dibujo en secuencia. Surgieron en el siglo XIX y evolucionaron hasta formatos digitales. Se clasifican en historietas, novelas gráficas y fanzines, con géneros como terror, aventura, superhéroes, entre otros. La tecnología ha permitido su difusión masiva a través de medios digitales.',
+      'Las historietas son narraciones ilustradas combinando texto y dibujo en secuencia. Surgieron en el siglo XIX y evolucionaron hasta formatos digitales. Se clasifican en historietas, novelas gráficas y <em>fanzines</em>, con géneros como terror, aventura, superhéroes, entre otros. La tecnología ha permitido su difusión masiva a través de medios digitales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -320,6 +320,11 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',

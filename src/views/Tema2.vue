@@ -39,7 +39,7 @@
             .row.justify-content-center.align-items-center.py-lg-4
               .col-lg-7
                 h4.mb-4 #[em Western]
-                p.mb-0 El género western nació a principios del siglo XIX como tira cómica. Refleja la cultura del oeste norteamericano, marcada por los enfrentamientos entre forajidos, bandidos, indígenas pieles rojas y el #[em sheriff], en el contexto de las guerras en el medio oeste de Estados Unidos.
+                p.mb-0 El género #[em western] nació a principios del siglo XIX como tira cómica. Refleja la cultura del oeste norteamericano, marcada por los enfrentamientos entre forajidos, bandidos, indígenas pieles rojas y el #[em sheriff], en el contexto de las guerras en el medio oeste de Estados Unidos.
 
               .col-lg-4.order-first.order-lg-last
                 figure.mb-4.mb-lg-0.mx-auto(style="max-width: 295px;")
