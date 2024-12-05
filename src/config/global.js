@@ -105,22 +105,6 @@ export default {
         'https://www.youtube.com/watch?v=jZNWeWKm148&ab_channel=FlexFlixTeensenEspa%C3%B1ol',
     },
     {
-      tema: 'Recorrido histórico',
-      referencia:
-        'Acevedo, J. (2021). <em>Para hacer historietas:</em> (8 ed.). IEP Ediciones.',
-      tipo: 'Capítulo 1',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/195887',
-    },
-    {
-      tema: 'Géneros',
-      referencia:
-        'Hormaechea Ocaña, A. (2024). <em>Los cómics de superhéroes en los movimientos sociales: transformaciones de la identidad estadounidense:</em> (1 ed.). Los libros de la Catarata.',
-      tipo: 'Capítulo 4',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/252236',
-    },
-    {
       tema: 'Géneros',
       referencia:
         'Carlo David Cely (2017).Narración gráfica - Curso virtual: Géneros del cómic parte 1. [Archivo de video] Youtube.',
